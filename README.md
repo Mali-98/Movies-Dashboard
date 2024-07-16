@@ -21,7 +21,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/movie-site-dashboard.git
+   git clone https://github.com/Mali-98/Movies-Dashboard.git
    ```
 
 2. **Open in Power BI**:
